@@ -64,14 +64,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sunyentan&show_icons=true&locale=en" alt="sunyentan's GitHub Stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunyentan" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📸 here's my fav pic from my trip to seattle!
 
 <p align="left">
-  <img src="myfavpicbuthigherres.png" alt="Sun-Yen Tan" width="700" style="border-radius: 12px;">
+  <img src="dapic.png" alt="just wow" width="700" style="border-radius: 12px;">
 </p>
