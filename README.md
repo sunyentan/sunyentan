@@ -66,7 +66,7 @@
 
 ---
 
-### 📸 here's my fav pic from my trip to seattle!
+### 📸 this is where i painted my profile pic @ amazon spheres!
 
 <p align="left">
   <img src="dapic.png" alt="just wow" width="700" style="border-radius: 12px;">
