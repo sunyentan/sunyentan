@@ -54,8 +54,6 @@
   </a>
 </p>
 
-<p>(also fluent in: <i><b>chatgpt</b></i> 😂)</p>
-
 ---
 
 ### 📊 my super impressive gh stats
